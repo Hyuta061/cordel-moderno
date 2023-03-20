@@ -42,7 +42,7 @@ body {
 }
 section > p  {
     
-    font-size: 3.2vw;
+    font-size: 3.6vw;
     font-family:'Sriracha', cursive;
     line-height: 2em;
     padding: 10vh 0 15vh 5vh;
@@ -61,8 +61,8 @@ section > p  {
 .paragrafoimg > p {
     display: inline-block;
     background-color: rgba(0, 0, 0, 0.514);
-    padding: 2vh;
-    margin: 10vh;
+    padding: 1vh;
+    margin: 4vh;
 }
 #fundo1 {
     background-image: url("pacote-d012/imagens/background001.jpg");
