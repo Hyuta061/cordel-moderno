@@ -52,7 +52,7 @@ section > p  {
     
     background-attachment: fixed;
     background-size: cover;
-    background-position:right bottom ;
+    background-position:right center;
     background-repeat: no-repeat;
     box-shadow: 6px 6px 13px 5px rgba(0, 0, 0, 0.473);
 
